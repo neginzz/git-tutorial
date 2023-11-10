@@ -1,4 +1,3 @@
 new file
-
-
+responsive
 i made this responsive too!
